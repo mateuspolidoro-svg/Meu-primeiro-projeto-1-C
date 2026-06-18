@@ -1,9 +1,8 @@
 body{
-    background-color: blue;
-}
+    background-color: #FDFDE9
 h1{
 font-size: 60px;
-color: blueviolet;
+color: black;
 text-align: center;
 border: 7px groove rgb(7, 21, 87);
 p{
